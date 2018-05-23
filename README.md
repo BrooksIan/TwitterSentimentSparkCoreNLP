@@ -7,8 +7,8 @@
 - [HDP 2.6.X]
 - Spark 2.x
 
-**Author**: Ian Brooks
-**Follow**: [LinkedIn - Ian Brooks PhD] (https://www.linkedin.com/in/ianrbrooksphd/)
+**Author** Ian Brooks \
+**Follow** [LinkedIn - Ian Brooks PhD] (https://www.linkedin.com/in/ianrbrooksphd/) \
 **HCC Article**: [Link] (https://community.hortonworks.com/articles/192368/spark-core-nlp-in-apache-zeppelin.html) 
 
 Instructions:
