@@ -19,4 +19,4 @@ Instructions:
 
 4. Review Spark Core NLP's [API](https://github.com/databricks/spark-corenlp) which creates Spark wrapper to the [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) library 
 
-5. In the Stanford Core NLP download found here http://nlp.stanford.edu/software/stanford-corenlp-full-2018-02-27.zip find the stanford-corelop-*-models.jar. In Zeppelin Spark Interpreters configurations, include the following artifact: /tmp/stanford-corenlp-full-2018-02-27/stanford-corenlp-3.9.1-models.jar	
+5. In the Stanford Core NLP download found here http://nlp.stanford.edu/software/stanford-corenlp-full-2018-02-27.zip find the stanford-corelop-*-models.jar. In Zeppelin's Interpreters configurations for Spark, include the following artifact: /tmp/stanford-corenlp-full-2018-02-27/stanford-corenlp-3.9.1-models.jar	
